@@ -1,0 +1,5 @@
+rno    name    mobile
+cse1   vara    9908443770
+cse2   prasad  3459683217
+cse3  lalesh   5677892345
+cse4   chary    9959683217

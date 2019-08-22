@@ -1,0 +1,3 @@
+rno    name    mobile
+cse2   prasad  3459683217
+cse3  lalesh   5677892345
